@@ -6,20 +6,39 @@
 
 App for creating expenses. Learning State, props, passing the state, lifting the state up, and more.
 
+## User Guide
+
+### Clone the repository
+
+`git clone (https://github.com/Hombre2014/react-complete-guide-expenses.git)`
+
+### Change the directory
+
+`cd react-complete-guide-expenses`
+
+### Install dependencies
+
+`npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Author
 
-### `npm run build`
+👤 **Yuriy Chamkoriyski**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- GitHub: [@Hombre2014](https://github.com/Hombre2014)
+- Twitter: [@Chamkoriyski](https://twitter.com/Chamkoriyski)
+- LinkedIn: [axebit](https://linkedin.com/in/axebit)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🤝 Contributing
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Hombre/react-complete-guide-expenses/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
