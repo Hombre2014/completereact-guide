@@ -1,4 +1,4 @@
-# React - The Complete Guide (Includes Hooks, React Router, and Redux) - Second Edition.
+# React - The Complete Guide (Includes Hooks, React Router, and Redux) - Second Edition
 
 > By Maximilian Schwarzmuller from PACKT, Academind
 
